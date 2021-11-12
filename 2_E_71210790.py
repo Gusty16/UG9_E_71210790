@@ -1,0 +1,11 @@
+print("Test case 1")
+p, k = list(input("Nama : ") .split())
+tt, tl, bn, tn = list(input("Tempat tanggal lahir : ") .split())
+print("Haloo!", k+ ",", p)
+print("Anda lahir di", tt, "pada tanggal", tl, bn, tn)
+
+print("Test case 2")
+p, m, k = list(input("Nama : ") .split())
+tt, tl, bn, tn = list(input("Tempat tanggal lahir : ") .split())
+print("Haloo!", k+ ",", p, m)
+print("Anda lahir di", tt, "pada tanggal", tl, bn, tn)
